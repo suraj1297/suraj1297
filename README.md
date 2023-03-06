@@ -24,7 +24,7 @@ Blogs: https://medium.com/@surajdesai1297 </br>
 Did you know that I once built a machine learning model that could predict the flavor of potato chips with over 90% accuracy?</br>
 It turns out, the key to great chip flavor is all in the seasoning!</br>
 
-![Text](https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N/giphy.gif)
+![Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlNzJkOGZkNjE2OTBjZTZlZjI2MzI1MGJiMTNjNmExODc3YTk1MyZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif)
 
 
 <!--
