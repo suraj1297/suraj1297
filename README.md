@@ -26,7 +26,7 @@ It turns out, the key to great chip flavor is all in the seasoning!</br>
 
 ![Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRlNzJkOGZkNjE2OTBjZTZlZjI2MzI1MGJiMTNjNmExODc3YTk1MyZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif)
 
-![Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<!-- ![Text](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif) -->
 
 
 <!--
