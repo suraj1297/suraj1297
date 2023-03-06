@@ -16,9 +16,9 @@ Backend development and infrastructure
 Data Structure and Algorithms
 
 ### 📫 How to reach me
-Email: surajdesai1297@gmail.com \n
-LinkedIn: https://www.linkedin.com/in/sd1297/ \n
-Blogs: https://medium.com/@surajdesai1297 \n
+Email: surajdesai1297@gmail.com 
+LinkedIn: https://www.linkedin.com/in/sd1297/
+Blogs: https://medium.com/@surajdesai1297
 
 ### ⚡ Fun fact
 Did you know that I once built a machine learning model that could predict the flavor of potato chips with over 90% accuracy?
