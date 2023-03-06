@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Suraj Desai, a software engineer and machine learning engineer with 3 years of industry experience. 
-I have a passion for building robust and scalable software systems that solve real-world problems.
-I'm also passionate about leveraging data to solve real-world problems and building efficient algorithms that scale.
+I'm Suraj Desai, a software engineer and machine learning engineer with 3 years of industry experience. </br>
+I have a passion for building robust and scalable software systems that solve real-world problems. </br>
+I'm also passionate about leveraging data to solve real-world problems and building efficient algorithms that scale. </br>
 
 ### 🌱 Learning and Development
 I'm a lifelong learner, and I'm always looking to improve my skills and knowledge. 
@@ -10,10 +10,10 @@ Currently, I'm working on improving my skills in Systems Designs and deepening m
 understanding of Data Structures and Algorithms.
 
 ### 💬 Ask me about
-Machine learning and data science
-Software architecture and design
-Backend development and infrastructure
-Data Structure and Algorithms
+Machine learning and data science </br>
+Software architecture and design </br>
+Backend development and infrastructure </br>
+Data Structure and Algorithms </br>
 
 ### 📫 How to reach me
 Email: surajdesai1297@gmail.com </br>
@@ -21,10 +21,10 @@ LinkedIn: https://www.linkedin.com/in/sd1297/ </br>
 Blogs: https://medium.com/@surajdesai1297 </br>
 
 ### ⚡ Fun fact
-Did you know that I once built a machine learning model that could predict the flavor of potato chips with over 90% accuracy?
-It turns out, the key to great chip flavor is all in the seasoning!
+Did you know that I once built a machine learning model that could predict the flavor of potato chips with over 90% accuracy?</br>
+It turns out, the key to great chip flavor is all in the seasoning!</br>
 
-![](https://giphy.com/gifs/DronaHQ-AHcEGB5nuIALBqKWjp)
+![Text](https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N/giphy.gif)
 
 
 <!--
