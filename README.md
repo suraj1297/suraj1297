@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Suraj Desai, a software engineer and machine learning engineer with 3 years of industry experience. </br>
+I'm Suraj Desai, a Data Scientist and Generative AI engineer with more than 3 years of industry experience. </br>
 I have a passion for building robust and scalable software systems that solve real-world problems. </br>
 I'm also passionate about leveraging data to solve real-world problems and building efficient algorithms that scale. </br>
 
