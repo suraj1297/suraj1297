@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm Suraj Desai, a Data Scientist and Generative AI engineer with more than 5 years of industry experience. </br>
-I have a passion for building robust and scalable software systems that solve real-world problems. </br>
-I'm also passionate about leveraging data to solve real-world problems and building efficient algorithms that scale. </br>
+I’m a Data Scientist and AI Engineer with 5 years of experience in machine learning(ML), LLMs, NLP, and algorithms. </br>
+My specialty is building, training, and fine-tuning AI and ML algorithms with large sets of raw unstructured data. </br>
+My skill set includes using Python, LLMs, predictive and statistical analysis to build deep learning solutions, and optimize complex data pipelines. </br>
+I’ve even built a transformer architecture from the GPT research paper to understand the math underpinnings of the model.</br>
 
 ### 🌱 Learning and Development
 I'm a lifelong learner, and I'm always looking to improve my skills and knowledge. 
