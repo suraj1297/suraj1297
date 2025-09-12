@@ -6,15 +6,7 @@ My skill set includes using Python, LLMs, predictive and statistical analysis to
 I’ve even built a transformer architecture from the GPT research paper to understand the math underpinnings of the model.</br>
 
 ### 🌱 Learning and Development
-I'm a lifelong learner, and I'm always looking to improve my skills and knowledge. 
-Currently, I'm working on improving my skills in Systems Designs and deepening my 
-understanding of Data Structures and Algorithms.
-
-### 💬 Ask me about
-Machine learning and data science </br>
-Software architecture and design </br>
-Backend development and infrastructure </br>
-Data Structure and Algorithms </br>
+I'm a lifelong learner, and I'm always looking to improve my skills and knowledge.
 
 ### 📫 How to reach me
 Email: surajdesai1297@gmail.com </br>
